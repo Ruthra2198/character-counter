@@ -16,4 +16,4 @@ This is a simple web-based project that implements a live character counter for 
 * JavaScript 
 
 ## Link:
-here
+https://ruthra2198.github.io/character-counter/
